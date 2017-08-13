@@ -17,20 +17,20 @@ Connect your repo to your computer
 
 ### In Terminal (aka Command Line)
 Traverse to your project folder and type:
-  git status
+  ### git status
   
    The terminal response will say "on branch master", "your branch is up to date with origin/master"
  
  To check which GitHub branch you are currently on type: 
-  git branch
+  ### git branch
   
  To create the GH-Pages branch, type:
-  git branch gh-pages
+  ### git branch gh-pages
   
  Switch to the gh-pages branch you just created by typing:
-  git checkout gh-pages
+  ### git checkout gh-pages
   
  Push project files to gh-pages, type:
-  git push origin gh-pages
+  ### git push origin gh-pages
   
  

@@ -34,6 +34,7 @@ Traverse to your project folder and type:
  
  ### In your browser, type:
   username.github.io/nameofghrepository
-  ***replace 'username' with your GitHub username and replace 'nameofghrepository' to the EXACT name of the GH Repository where you created your GH-Pages. This is case and character sensitive so if you get an error in the browser, check that you spelled the name correctly
+
+#### Replace 'username' with your GitHub username and replace 'nameofghrepository' to the EXACT name of the GH Repository where you created your GH-Pages. This is case and character sensitive so if you get an error in the browser, check that you spelled the name correctly
   
  

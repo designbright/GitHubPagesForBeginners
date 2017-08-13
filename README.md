@@ -37,4 +37,11 @@ Traverse to your project folder and type:
 
 #### Replace 'username' with your GitHub username and replace 'nameofghrepository' to the EXACT name of the GH Repository where you created your GH-Pages. This is case and character sensitive so if you get an error in the browser, check that you spelled the name correctly
   
- 
+ ## Make your GitHub life easier
+Your GitHub repo names and your project folder name should match each other. This helps keep you organized when you are ready to push your files to GitHub. You won't spend hours trying to figure out which files on your computer match the GitHub repo you created. 
+
+### Repo Naming
+Name your GH repos as something that relates to the overall topic of your project. This helps other GitHub users easily figure out the purpose of your repo and makes it more likely for them to use it.
+
+### Add READMEs! I heart README's! 
+Before starting a project, add a README file. Writing code is hard enough as it is and reading someone elses code is even harder. READMEs help others understand what you are doing with your code. It will also help others understand how they can contribute to your project. The technical world is lacking good documentation and this is a way to help improve that. Plus, if you can explain your code in plain english, that enables the growth of the technical community. 

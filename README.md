@@ -10,3 +10,27 @@ Pushing your project files to GitHub will display all the code in your HTML and 
 For example, you create an awesome website with HTML and CSS. You are able to test your code files on your computer in the browser and see what is actually rendering to the page. However, if you were to send your HTML file to someone, they would not be able to see the website. This is because you would be sending the file path from YOUR computer, which is not something your end user has access to. 
 
 ## HOW TO USE GH-PAGES
+Create a GitHub repository and make sure all of your project files are up to date
+  **Double check that your project contains an index.html file. If it does not, only the README will render to your GH-Pages. 
+  
+Connect your repo to your computer 
+
+### In Terminal (aka Command Line)
+Traverse to your project folder and type:
+  git status
+  
+   The terminal response will say "on branch master", "your branch is up to date with origin/master"
+ 
+ To check which GitHub branch you are currently on type: 
+  git branch
+  
+ To create the GH-Pages branch, type:
+  git branch gh-pages
+  
+ Switch to the gh-pages branch you just created by typing:
+  git checkout gh-pages
+  
+ Push project files to gh-pages, type:
+  git push origin gh-pages
+  
+ 

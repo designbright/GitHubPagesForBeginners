@@ -18,7 +18,6 @@ Connect your repo to your computer
 ### In Terminal (aka Command Line)
 Traverse to your project folder and type:
   ### git status
-  
    The terminal response will say "on branch master", "your branch is up to date with origin/master"
  
  To check which GitHub branch you are currently on type: 
@@ -32,5 +31,9 @@ Traverse to your project folder and type:
   
  Push project files to gh-pages, type:
   ### git push origin gh-pages
+ 
+ ### In your browser, type:
+  username.github.io/nameofghrepository
+  ***replace 'username' with your GitHub username and replace 'nameofghrepository' to the EXACT name of the GH Repository where you created your GH-Pages. This is case and character sensitive so if you get an error in the browser, check that you spelled the name correctly
   
  
